@@ -26,4 +26,4 @@ Optional：
  - 最後修改 link 找href的位置，先獨立找到標籤a的位置可以抓到商品網址。
 
 References：
-- 【Python爬虫】超详细教学讲解，自动模拟登录，采集淘宝商品数据 https://www.youtube.com/watch?v=udzXF-taKzM&t=3703s
+- 【Python爬虫】超详细教学讲解，自动模拟登录，采集淘宝商品数据 https://www.youtube.com/watch?v=udzXF-taKzM&t=3703s #排版更動已失效
