@@ -15,6 +15,7 @@ Tech Stack：
 - openpyxl
 
 Tools Used：
+-ChatGPT
 -XPATH
 -google chrome 擴充功能 XPATH 測試器
 
