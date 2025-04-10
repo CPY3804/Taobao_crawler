@@ -16,6 +16,7 @@ Tech Stack：
 
 Tools Used：
 - ChatGPT
+- Copilot
 - XPATH
 - google chrome 擴充功能 XPATH 測試器
 
