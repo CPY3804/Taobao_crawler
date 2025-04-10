@@ -15,9 +15,9 @@ Tech Stack：
 - openpyxl
 
 Tools Used：
--ChatGPT
--XPATH
--google chrome 擴充功能 XPATH 測試器
+- ChatGPT
+- XPATH
+- google chrome 擴充功能 XPATH 測試器
 
 Optional：
  - GPT產生的XPAH定位語法需要變更，手動找到可以定位的class或是id，用XPATH測試器輔助找到正確的定位。
